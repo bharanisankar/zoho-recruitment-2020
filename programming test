@@ -1,0 +1,6 @@
+char = 'water'
+count= len(char) - 1
+while count >=0;
+  count2 = char[count]
+  print(count2)
+  count-=1
